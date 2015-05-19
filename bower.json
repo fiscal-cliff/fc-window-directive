@@ -1,0 +1,28 @@
+{
+  "name": "fcWindow",
+  "version": "1.0.0",
+  "authors": [
+    "fiscal-cliff <strong.drug@gmail.com>"
+  ],
+  "description": "Angular module, that contains a directive. The directive allows you to make draggable and resizeable any absolutely positioned div on your page. It looks exactly like moveable (draggable) and resizeable dialog window.",
+  "main": "fc-window-directive.js",
+  "keywords": [
+    "angular",
+    "window",
+    "frame",
+    "draggable",
+    "resizeable",
+    "move",
+    "dialog",
+    "angularjs",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
