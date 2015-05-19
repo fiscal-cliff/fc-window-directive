@@ -1,5 +1,5 @@
 # fc-window-directive
-Angular module, that contains a directive. The directive allows you to make draggable and resizeable any absolutely positioned div on your page. It looks exactly like moveable (draggable) and resizeable dialog window.
+Angular module, that contains a directive. The directive allows you to make draggable and resizeable any absolutely positioned div on your page. It looks exactly like moveable (draggable) and resizeable dialog window. It's free of JQuery Draggable.
 
 #Installation
 
@@ -31,3 +31,5 @@ div[fc-window] {
     border-radius: 10px;
 }
 ```
+
+[Demo](http://jsfiddle.net/fiscal_cliff/mLyhkr89/6/)
